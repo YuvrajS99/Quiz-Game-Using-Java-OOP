@@ -3,7 +3,6 @@
 A simple **console-based Quiz Game** built using **Java** and **Object-Oriented Programming (OOP)** concepts.  
 This project was created to practice and implement **Java Classes and Objects** in a real mini-application.
 
----
 
 ## 📌 About the Project
 
@@ -11,7 +10,6 @@ This Quiz Game displays multiple-choice questions, takes user input from the con
 
 It is a beginner-friendly Java project that focuses mainly on **OOP implementation**.
 
----
 
 ## ✨ Features
 
@@ -21,7 +19,6 @@ It is a beginner-friendly Java project that focuses mainly on **OOP implementati
 - Checks answers and prints final score
 - Simple and easy-to-understand code structure
 
----
 
 ## 🧠 Concepts Implemented (Java OOP)
 
@@ -29,8 +26,8 @@ It is a beginner-friendly Java project that focuses mainly on **OOP implementati
 ✅ Constructor  
 ✅ Encapsulation (Getters & Setters)  
 ✅ Arrays of Objects  
-✅ Looping (`for` loop + enhanced for loop)  
-✅ User Input using `Scanner`
+✅ Looping (for loop + enhanced for loop)  
+✅ User Input using Scanner
 
 ---
 
@@ -49,30 +46,28 @@ Copy code
 
 ## ⚙️ How It Works
 
-1. `Questions` class stores question details (id, question, options, answer).
-2. `QuestionService` class contains:
-   - An array of `Questions` objects
+1. Questions class stores question details (id, question, options, answer).
+2. QuestionService class contains:
+   - An array of Questions objects
    - Logic to display questions
    - Logic to take input and store answers
    - Logic to calculate and print the score
-3. `Main` class runs the quiz by calling:
-   - `playQuiz()`
-   - `printScore()`
+3. Main class runs the quiz by calling:
+   - playQuiz()
+   - printScore()
 
----
+
 
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
-
 git clone https://github.com/YuvrajS99/Quiz-Game-Using-Java-OOP.git
+
 2️⃣ Open in any Java IDE
 Examples:
-
-IntelliJ IDEA
-
+IntelliJ
+IDEA
 Eclipse
-
 VS Code
 
 3️⃣ Run the Program
@@ -120,7 +115,3 @@ If you found this project helpful, give it a ⭐ on GitHub.
 
 yaml
 Copy code
-
----
-
-Done. Now go paste it and pretend it was “planned documentation.” 😄
