@@ -74,6 +74,7 @@ VS Code
 Run the Main.java file.
 
 🖥️ Sample Output
+
 kotlin
 Copy code
 1
@@ -92,7 +93,6 @@ extends
 implements
 > extends
 
-...
 
 Your Score is : 5
 🔮 Future Improvements (Optional)
@@ -113,5 +113,3 @@ Final Year Computer Engineering Student
 ⭐ Support
 If you found this project helpful, give it a ⭐ on GitHub.
 
-yaml
-Copy code
